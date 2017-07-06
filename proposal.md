@@ -1,3 +1,6 @@
+---
+output: html_document
+---
 # Machine Learning Engineer Nanodegree
 ## Capstone Proposal
 Gaurav Kumar
